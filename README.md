@@ -1,5 +1,5 @@
 <h1 align="center"> SQL – Banco de Dados </h1>
-<h3 align="center">Exemplos práticos de SQL com MySQL/MariaDB | Ideal para iniciantes</h3>
+<h3 align="center">Exemplos práticos de SQL com MySQL | Ideal para iniciantes</h3>
 
 
 ---
