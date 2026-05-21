@@ -1,11 +1,6 @@
-<h1 align="center"> Basic SQL – Banco de Dados Escolar</h1>
+<h1 align="center"> Basic SQL – Banco de Dados </h1>
 <h3 align="center">Exemplos práticos de SQL com MySQL/MariaDB | Ideal para iniciantes</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-silva-2845b4270/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 ---
 
